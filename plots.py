@@ -26,11 +26,11 @@ CLASS_COLORS = {
 
 # Overlay styling (Model vs baselines)
 MODEL_STYLES = {
-    "LANTERN":   {"color": "#dd1c77", "linestyle": "-", "linewidth": 1.9, "zorder": 4},  # magenta
-    "Logistic":  {"color": "#e6550d", "linestyle": "-", "linewidth": 1.9, "zorder": 3},  # orange
-    "LightGBM":  {"color": "#2ca25f", "linestyle": "-", "linewidth": 1.9, "zorder": 3},  # midgreen
-    "GRU":       {"color": "#f1c40f", "linestyle": "-", "linewidth": 1.9, "zorder": 3},  # gold
-    "Heuristic": {"color": "#00cfe3", "linestyle": "-", "linewidth": 1.9, "zorder": 2},  # cyan
+    "LANTERN":   {"color": "#dd1c77", "linestyle": "-", "linewidth": 2.1, "zorder": 5},  # magenta
+    "Logistic":  {"color": "#1f3a93", "linestyle": "-", "linewidth": 1.8, "zorder": 3},  # blue
+    "LightGBM":  {"color": "#2ca25f", "linestyle": "-", "linewidth": 1.8, "zorder": 4},  # midgreen
+    "GRU":       {"color": "#f1c40f", "linestyle": "-", "linewidth": 1.8, "zorder": 3},  # gold
+    "Heuristic": {"color": "#00cfe3", "linestyle": "-", "linewidth": 1.8, "zorder": 2},  # cyan
     "Chance":    {"color": "#cfcfcf", "linestyle": "-", "linewidth": 1.2, "zorder": 1},  # light gray
 }
 
