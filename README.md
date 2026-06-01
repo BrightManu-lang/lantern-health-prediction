@@ -10,7 +10,7 @@ M = Mild disability
 S = Severe disability
 D = Death
 ```
-The predicted individual-level transition probabilities can be used for calibration analysis, risk stratification, and aggregation into transition matrices.
+The predicted individual-level transition probabilities can be used for calibration analysis, risk stratification, and aggregation into transition matrices for actuarial projection purposes.
 
 ## Requirements
 
