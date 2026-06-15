@@ -52,9 +52,8 @@ The preprocessing code expects the RAND HRS file locally and creates the final m
 
 ## Paper
 This repository accompanies the paper:
-**A Longitudinal Attribute-Conditioned Neural Network for Modeling Health-State Transition Probabilities in Temporally Irregular Data: The LANTERN Framework**
-
-Bright Kwaku Manu, Beckett Sterner, and Petar Jevtic
+**A Longitudinal Attribute-Conditioned Neural Network for Modeling Health-State Transition Probabilities in Temporally Irregular Data: The LANTERN Framework**<br>
+Bright Kwaku Manu, Beckett Sterner, and Petar Jevtic<br>
 http://arxiv.org/abs/2606.13880
 
 The manuscript is currently available as a preprint and is under review.
